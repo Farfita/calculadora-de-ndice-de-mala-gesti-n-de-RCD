@@ -1,2 +1,6 @@
-# calculadora-de-ndice-de-mala-gesti-n-de-RCD
-Esto mediante el relleno de las variables te dará el índice de la mala gestión de RCD directamente
+# 1
+
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/Darek-Franco-Carrillo-Terrones/pen/KwpbPRr](https://codepen.io/Darek-Franco-Carrillo-Terrones/pen/KwpbPRr).
+
